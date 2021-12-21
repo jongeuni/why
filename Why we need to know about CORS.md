@@ -54,7 +54,7 @@ Cross-Origin Resource Sharing는, Cross-Origin(다른 출처)의 Resrouce를 공
 
 ## Cross-Origin? Same-Origin?
 
-*동일 출처(Same-Origin)*에서밖에 공유가 안 되었는데, CORS 정책으로 *다른 출처(Cross-Origin)*에서도 공유가 가능해졌다. 그러면 다르고, 같다를 구분하는 기준은 어떻게 될까.
+*동일 출처*(*Same-Origin*)에서밖에 공유가 안 되었는데, CORS 정책으로 *다른 출처*(*Cross-Origin*)에서도 공유가 가능해졌다. 그러면 다르고, 같다를 구분하는 기준은 어떻게 될까.
 
 <br>
 
