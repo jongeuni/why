@@ -94,7 +94,7 @@ Origin(출처)은 **① scheme**, **② host**, **③ port** 가 있다.
 
 이 때 브라우저가 본 요청을 보내기 전에 보내는 예비 요청을 Preflight라고 부른다. 예비 요청에는 HTTP 메서드 중 **OPTIONS** 메서드가 사용된다. 예비 요청의 역할은 본 요청을 보내기 전에 브라우저 스스로 이 **요청을 보내는 것이 안전한지 확인**하는 것이다.
 
-#### 3. [Credentinled](https://velog.io/@wiostz98kr/CORS%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83) [Request](https://evan-moon.github.io/2020/05/21/about-cors/en/)
+#### 3. [Credentialed](https://velog.io/@wiostz98kr/CORS%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83) [Request](https://evan-moon.github.io/2020/05/21/about-cors/en/)
 
 인증된 요청을 사용하는 방법이다. CORS의 기본적인 방식이라기 보다는 다른 출처 간 통신에서 보안을 좀 더 강화하고 싶을 때 사용하는 방법이다.
 
